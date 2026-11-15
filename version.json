@@ -1,6 +1,6 @@
 {
-  "version": "9.4.2",
-  "notes": "The updater finds the right zip, whatever it is called",
-  "released": "2026-11-15T21:09:38Z",
+  "version": "9.4.3",
+  "notes": "A clearer answer when the update is already installed",
+  "released": "2026-11-15T21:26:37Z",
   "page": "https://ainewtothegame.itch.io/galactic-observer"
 }
