@@ -1,6 +1,6 @@
 {
-  "version": "9.4.3",
-  "notes": "A clearer answer when the update is already installed",
-  "released": "2026-11-15T21:26:37Z",
+  "version": "9.4.4",
+  "notes": "The version board waits until the download is really ready",
+  "released": "2026-11-15T21:38:37Z",
   "page": "https://ainewtothegame.itch.io/galactic-observer"
 }
