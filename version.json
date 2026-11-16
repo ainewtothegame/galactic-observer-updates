@@ -1,6 +1,6 @@
 {
-  "version": "9.9.0",
-  "notes": "Circular orbits snap into place, a smoother orbit preview, and a fixed Android signing key",
-  "released": "2026-11-16T11:47:40Z",
+  "version": "9.9.1",
+  "notes": "The orbit snap is much easier to hit",
+  "released": "2026-11-16T12:48:33Z",
   "page": "https://ainewtothegame.itch.io/galactic-observer"
 }
