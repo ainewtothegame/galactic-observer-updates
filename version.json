@@ -1,6 +1,6 @@
 {
-  "version": "9.8.1",
-  "notes": "A hand-over guide for the next programmer",
-  "released": "2026-11-16T10:47:42Z",
+  "version": "9.9.0",
+  "notes": "Circular orbits snap into place, a smoother orbit preview, and a fixed Android signing key",
+  "released": "2026-11-16T11:47:40Z",
   "page": "https://ainewtothegame.itch.io/galactic-observer"
 }
