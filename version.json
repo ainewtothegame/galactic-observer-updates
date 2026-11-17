@@ -1,6 +1,6 @@
 {
-  "version": "9.11.1",
-  "notes": "Exposing a secret now gets an answer, and the story says who did what",
-  "released": "2026-11-16T17:35:22Z",
+  "version": "9.11.2",
+  "notes": "Placing bodies no longer opens the inspector each time",
+  "released": "2026-11-17T00:03:07Z",
   "page": "https://ainewtothegame.itch.io/galactic-observer"
 }
