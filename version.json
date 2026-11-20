@@ -1,6 +1,6 @@
 {
-  "version": "9.45.0",
-  "notes": "Ship Follow button, orders in the ship's own panel, and ship logs with real content",
-  "released": "2026-11-20T16:37:12Z",
+  "version": "9.46.0",
+  "notes": "Smooth ship motion, clean wormhole routing, and ship Info / Orders / Log tabs",
+  "released": "2026-11-20T19:25:31Z",
   "page": "https://ainewtothegame.itch.io/galactic-observer"
 }
