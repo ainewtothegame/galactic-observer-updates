@@ -1,6 +1,8 @@
 {
-  "version": "9.51.0",
-  "notes": "One-tap updates: the game downloads and installs its own update",
-  "released": "2026-11-21T21:40:06Z",
-  "page": "https://ainewtothegame.itch.io/galactic-observer"
+  "version": "9.51.1",
+  "notes": "One-tap updating is switched on",
+  "released": "2026-11-21T21:43:47Z",
+  "page": "https://ainewtothegame.itch.io/galactic-observer",
+  "apkUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.51.1/Galactic-Observer.apk",
+  "zipUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.51.1/Galactic-Observer-PC.zip"
 }
