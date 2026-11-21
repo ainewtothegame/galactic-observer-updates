@@ -1,6 +1,6 @@
 {
-  "version": "9.46.0",
-  "notes": "World directive buttons answer at once, and climate changes warn you",
-  "released": "2026-11-21T17:44:46Z",
+  "version": "9.48.0",
+  "notes": "PC version: faster loading, shared-memory fast path, and high quality by default on strong desktops",
+  "released": "2026-11-21T20:01:32Z",
   "page": "https://ainewtothegame.itch.io/galactic-observer"
 }
