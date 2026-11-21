@@ -1,6 +1,6 @@
 {
-  "version": "9.48.0",
-  "notes": "PC version: faster loading, shared-memory fast path, and high quality by default on strong desktops",
-  "released": "2026-11-21T20:01:32Z",
+  "version": "9.49.0",
+  "notes": "Phone top bar keeps clear of the front camera",
+  "released": "2026-11-21T20:59:59Z",
   "page": "https://ainewtothegame.itch.io/galactic-observer"
 }
