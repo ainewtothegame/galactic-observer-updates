@@ -1,8 +1,8 @@
 {
-  "version": "9.56.2",
-  "notes": "Dragging the view no longer snaps to the nearest planet; the heat report now records PC freezes",
-  "released": "2026-11-22T18:28:37Z",
+  "version": "9.56.3",
+  "notes": "The heat report names what freezes the page",
+  "released": "2026-11-22T18:58:30Z",
   "page": "https://ainewtothegame.itch.io/galactic-observer",
-  "apkUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.56.2/Galactic-Observer.apk",
-  "zipUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.56.2/Galactic-Observer-PC.zip"
+  "apkUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.56.3/Galactic-Observer.apk",
+  "zipUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.56.3/Galactic-Observer-PC.zip"
 }
