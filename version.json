@@ -1,8 +1,8 @@
 {
-  "version": "9.56.3",
-  "notes": "The heat report names what freezes the page",
-  "released": "2026-11-22T18:58:30Z",
+  "version": "9.56.4",
+  "notes": "Tapping away closes the planet sheet; fleet markers and orbiting ships stop hiding behind planets",
+  "released": "2026-11-22T20:28:02Z",
   "page": "https://ainewtothegame.itch.io/galactic-observer",
-  "apkUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.56.3/Galactic-Observer.apk",
-  "zipUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.56.3/Galactic-Observer-PC.zip"
+  "apkUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.56.4/Galactic-Observer.apk",
+  "zipUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.56.4/Galactic-Observer-PC.zip"
 }
