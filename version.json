@@ -1,8 +1,8 @@
 {
-  "version": "9.54.0",
-  "notes": "Colonies are supplied by their home world and pay it back; two peoples can share a world; moons have weather",
-  "released": "2026-11-22T16:14:45Z",
+  "version": "9.55.0",
+  "notes": "Worlds differ in what they have; fewer false alarms; tidier world histories; an Ignore button",
+  "released": "2026-11-22T16:30:29Z",
   "page": "https://ainewtothegame.itch.io/galactic-observer",
-  "apkUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.54.0/Galactic-Observer.apk",
-  "zipUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.54.0/Galactic-Observer-PC.zip"
+  "apkUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.55.0/Galactic-Observer.apk",
+  "zipUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.55.0/Galactic-Observer-PC.zip"
 }
