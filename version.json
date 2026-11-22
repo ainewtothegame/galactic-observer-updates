@@ -1,8 +1,8 @@
 {
-  "version": "9.53.1",
-  "notes": "Stations and shipyards no longer offer the whole tech tree",
-  "released": "2026-11-22T15:58:37Z",
+  "version": "9.53.2",
+  "notes": "Colonies in domes stop raising climate alarms; refused settlers raise tension",
+  "released": "2026-11-22T16:04:34Z",
   "page": "https://ainewtothegame.itch.io/galactic-observer",
-  "apkUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.53.1/Galactic-Observer.apk",
-  "zipUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.53.1/Galactic-Observer-PC.zip"
+  "apkUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.53.2/Galactic-Observer.apk",
+  "zipUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.53.2/Galactic-Observer-PC.zip"
 }
