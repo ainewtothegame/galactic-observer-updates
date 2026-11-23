@@ -1,8 +1,8 @@
 {
-  "version": "9.62.1",
-  "notes": "Crosses that could never take are refused, not paid for",
-  "released": "2026-11-23T01:45:36Z",
+  "version": "9.62.2",
+  "notes": "Prayers get their own tab in Alerts",
+  "released": "2026-11-23T01:58:58Z",
   "page": "https://ainewtothegame.itch.io/galactic-observer",
-  "apkUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.62.1/Galactic-Observer.apk",
-  "zipUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.62.1/Galactic-Observer-PC.zip"
+  "apkUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.62.2/Galactic-Observer.apk",
+  "zipUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.62.2/Galactic-Observer-PC.zip"
 }
