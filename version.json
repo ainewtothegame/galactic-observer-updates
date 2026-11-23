@@ -1,8 +1,8 @@
 {
-  "version": "9.65.2",
-  "notes": "Alerts has a Stars tab: every star, with how many bodies orbit it",
-  "released": "2026-11-23T21:42:08Z",
+  "version": "9.65.3",
+  "notes": "Alerts tabs fit on one row",
+  "released": "2026-11-23T22:12:56Z",
   "page": "https://ainewtothegame.itch.io/galactic-observer",
-  "apkUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.65.2/Galactic-Observer.apk",
-  "zipUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.65.2/Galactic-Observer-PC.zip"
+  "apkUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.65.3/Galactic-Observer.apk",
+  "zipUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.65.3/Galactic-Observer-PC.zip"
 }
