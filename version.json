@@ -1,8 +1,8 @@
 {
-  "version": "9.62.6",
-  "notes": "Saving to a slot no longer says \"device storage is full\"",
-  "released": "2026-11-23T16:37:15Z",
+  "version": "9.64.0",
+  "notes": "Southern globe, plasma mergers, visible fights, Fleets and Trade tabs",
+  "released": "2026-11-23T17:01:43Z",
   "page": "https://ainewtothegame.itch.io/galactic-observer",
-  "apkUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.62.6/Galactic-Observer.apk",
-  "zipUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.62.6/Galactic-Observer-PC.zip"
+  "apkUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.64.0/Galactic-Observer.apk",
+  "zipUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.64.0/Galactic-Observer-PC.zip"
 }
