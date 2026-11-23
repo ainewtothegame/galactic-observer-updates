@@ -1,8 +1,8 @@
 {
-  "version": "9.65.1",
-  "notes": "No more false \"imminent impact\" from a ring of rocks; threat alerts can show you what is coming",
-  "released": "2026-11-23T21:36:39Z",
+  "version": "9.65.2",
+  "notes": "Alerts has a Stars tab: every star, with how many bodies orbit it",
+  "released": "2026-11-23T21:42:08Z",
   "page": "https://ainewtothegame.itch.io/galactic-observer",
-  "apkUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.65.1/Galactic-Observer.apk",
-  "zipUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.65.1/Galactic-Observer-PC.zip"
+  "apkUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.65.2/Galactic-Observer.apk",
+  "zipUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.65.2/Galactic-Observer-PC.zip"
 }
