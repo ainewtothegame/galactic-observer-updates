@@ -1,8 +1,8 @@
 {
-  "version": "9.66.0",
-  "notes": "See where the Adversary is: an Adversary tab and red worlds in the Devotion view",
-  "released": "2026-11-24T01:17:45Z",
+  "version": "9.66.1",
+  "notes": "Census: devotion meter, Adversary mark and top species beside each world",
+  "released": "2026-11-24T02:02:40Z",
   "page": "https://ainewtothegame.itch.io/galactic-observer",
-  "apkUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.66.0/Galactic-Observer.apk",
-  "zipUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.66.0/Galactic-Observer-PC.zip"
+  "apkUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.66.1/Galactic-Observer.apk",
+  "zipUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.66.1/Galactic-Observer-PC.zip"
 }
