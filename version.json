@@ -1,8 +1,8 @@
 {
-  "version": "9.65.6",
-  "notes": "Tilting a world up and down no longer makes the zoom jump",
-  "released": "2026-11-23T23:49:31Z",
+  "version": "9.65.7",
+  "notes": "No white flicker over the countries; two fingers tilt or zoom, never both",
+  "released": "2026-11-24T00:25:36Z",
   "page": "https://ainewtothegame.itch.io/galactic-observer",
-  "apkUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.65.6/Galactic-Observer.apk",
-  "zipUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.65.6/Galactic-Observer-PC.zip"
+  "apkUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.65.7/Galactic-Observer.apk",
+  "zipUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.65.7/Galactic-Observer-PC.zip"
 }
