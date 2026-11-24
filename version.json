@@ -1,8 +1,8 @@
 {
-  "version": "9.65.7",
-  "notes": "No white flicker over the countries; two fingers tilt or zoom, never both",
-  "released": "2026-11-24T00:25:36Z",
+  "version": "9.66.0",
+  "notes": "See where the Adversary is: an Adversary tab and red worlds in the Devotion view",
+  "released": "2026-11-24T01:17:45Z",
   "page": "https://ainewtothegame.itch.io/galactic-observer",
-  "apkUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.65.7/Galactic-Observer.apk",
-  "zipUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.65.7/Galactic-Observer-PC.zip"
+  "apkUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.66.0/Galactic-Observer.apk",
+  "zipUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.66.0/Galactic-Observer-PC.zip"
 }
