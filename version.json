@@ -1,8 +1,8 @@
 {
-  "version": "9.100.0",
-  "notes": "Bases that survive, ships that keep their fuel, and arks with somewhere to land",
-  "released": "2026-11-26T17:15:54Z",
+  "version": "9.101.0",
+  "notes": "A colony is not a master, bases steer clear, and yards have crews",
+  "released": "2026-11-26T17:51:21Z",
   "page": "https://ainewtothegame.itch.io/galactic-observer",
-  "apkUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.100.0/Galactic-Observer.apk",
-  "zipUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.100.0/Galactic-Observer-PC.zip"
+  "apkUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.101.0/Galactic-Observer.apk",
+  "zipUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.101.0/Galactic-Observer-PC.zip"
 }
