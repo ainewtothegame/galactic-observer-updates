@@ -1,8 +1,8 @@
 {
-  "version": "9.103.0",
-  "notes": "Planets pull on each other",
-  "released": "2026-11-26T19:47:32Z",
+  "version": "9.104.0",
+  "notes": "Rocky surfaces for asteroids and small moons",
+  "released": "2026-11-26T19:54:02Z",
   "page": "https://ainewtothegame.itch.io/galactic-observer",
-  "apkUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.103.0/Galactic-Observer.apk",
-  "zipUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.103.0/Galactic-Observer-PC.zip"
+  "apkUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.104.0/Galactic-Observer.apk",
+  "zipUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.104.0/Galactic-Observer-PC.zip"
 }
