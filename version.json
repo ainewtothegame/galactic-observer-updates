@@ -1,8 +1,8 @@
 {
-  "version": "9.106.0",
-  "notes": "Terran, swamp, desert and tundra worlds",
-  "released": "2026-11-26T22:30:28Z",
+  "version": "9.106.1",
+  "notes": "Ringed and carbon worlds are reachable",
+  "released": "2026-11-26T23:55:09Z",
   "page": "https://ainewtothegame.itch.io/galactic-observer",
-  "apkUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.106.0/Galactic-Observer.apk",
-  "zipUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.106.0/Galactic-Observer-PC.zip"
+  "apkUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.106.1/Galactic-Observer.apk",
+  "zipUrl": "https://github.com/ainewtothegame/galactic-observer-updates/releases/download/v9.106.1/Galactic-Observer-PC.zip"
 }
